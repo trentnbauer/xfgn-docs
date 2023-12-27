@@ -4,6 +4,8 @@
 
 [authentication-access-and-accounts.md](../policies/authentication-access-and-accounts.md "mention")
 
+[cloudflare.md](../service-overviews/infrastructure/cloudflare.md "mention")
+
 [creation-and-managment-of-servers-or-services.md](../policies/creation-and-managment-of-servers-or-services.md "mention")
 
 [monitoring-and-alerting.md](../policies/monitoring-and-alerting.md "mention")
@@ -14,17 +16,13 @@
 
 ## Purchase Domain
 
-### Register via Cloudflare
+Our preference is to [purchase domains via Cloudflare](https://dash.cloudflare.com/7d52087ea953fbe2fa5d873636173e63/domains/register) though they do not have all TLDs. If the domain cannot be registered via Cloudflare you will need to purchase it via another provider, such as Namecheap.
 
-
-
-### Register via Namecheap
-
-
+If you purchase a domain through a different provider you will need to [set up the site in Cloudflare follow that providers steps for changing your Nameservers to Cloudflare.](https://developers.cloudflare.com/dns/zone-setups/full-setup/setup/) I would recommend looking at the registrars documentation for changing the Nameservers to Cloudflare, as Cloudflare's documentation may be outdated.
 
 ## Configure Domain
 
-### Catch All email
+### Configuring an Email address
 
 
 

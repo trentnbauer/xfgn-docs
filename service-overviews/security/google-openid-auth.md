@@ -1,6 +1,6 @@
 # Google OpenID Auth
 
-Where possible, all services should be set up to use the Google OAuth client. If the service automatically creates accounts and grants permissions when logging in, the service must be behind a [Cloudflare Application](broken-reference) with the [Bypass & Email Auth rules](../remote-access/cloudflare.md#authentication) applied
+Where possible, all services should be set up to use the Google OAuth client. If the service automatically creates accounts and grants permissions when logging in, the service must be behind a [Cloudflare Application](broken-reference) with the [Bypass & Email Auth rules](../remote-access/cloudflare-zero-trust.md#authentication) applied
 
 ## How to get the Client ID and Client Secret
 

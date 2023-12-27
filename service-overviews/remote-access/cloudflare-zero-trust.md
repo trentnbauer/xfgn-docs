@@ -1,4 +1,4 @@
-# Cloudflare
+# Cloudflare Zero Trust
 
 Refer to the following documentation for creation and management of Cloudflare services
 
@@ -35,6 +35,3 @@ This is to allow for load balancing / fail over when required.
 
 Cola tunnel is hosted on the [Vultr](../infrastructure/vultr.md) VPS 'Cola'
 
-## WAF
-
-<figure><img src="https://kb.xfgn.dev/uploads/images/gallery/2023-05/scaled-1680-/cloudflare.jpg" alt=""><figcaption></figcaption></figure>
