@@ -6,7 +6,7 @@
 * [🍕 Quick Start](welcome/quick-start.md)
 * [💸 Billing](welcome/billing.md)
 
-## 🗃 --- Internal Files ---
+## 🗃 External Links
 
 * [🗄 Public Documentation](https://docs.agamersgrind.com)
 * [📋 Private GitHub](https://github.com/trentnbauer/agg.local)
